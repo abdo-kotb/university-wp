@@ -1,4 +1,4 @@
-# [![University WP]](https://wordpress.org/)
+# [![University WP]](https://university-wp.x10.mx/wp/)
 
 ## University WP
 
